@@ -1,0 +1,11 @@
+{
+  "version": "2.11.0",
+  "url": "bundle/2.11.0.bin",
+  "sha256": "764a326365d4b8f157bb698fa1c1655597a56822a90700919490bcc1086c25c0",
+  "size": 135382,
+  "notice": "v2.10 드롭다운 오작동 수정 + v2.11 자동 업데이트 도입",
+  "released_at": "2026-07-25 21:43:37",
+  "block_below": "0.0.0",
+  "min_launcher": "1.0.0",
+  "telemetry_url": ""
+}
