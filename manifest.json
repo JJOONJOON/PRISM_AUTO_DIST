@@ -1,10 +1,10 @@
 {
-  "version": "2.11.0",
-  "url": "bundle/2.11.0.bin",
-  "sha256": "764a326365d4b8f157bb698fa1c1655597a56822a90700919490bcc1086c25c0",
+  "version": "2.11.1",
+  "url": "bundle/2.11.1.bin",
+  "sha256": "eab571105465ac877f284c8de886d48ad6a2ac98058f301df1b0a5e90ca1acc3",
   "size": 135382,
-  "notice": "v2.10 드롭다운 오작동 수정 + v2.11 자동 업데이트 도입",
-  "released_at": "2026-07-25 21:43:37",
+  "notice": "배송 경로 확인용 리허설 (코드 변경 없음)",
+  "released_at": "2026-07-25 21:52:43",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": ""
