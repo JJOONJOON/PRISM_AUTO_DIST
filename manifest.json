@@ -1,10 +1,10 @@
 {
-  "version": "2.11.3",
-  "url": "bundle/2.11.3.bin",
-  "sha256": "70c1132e46b2c0de1b966ab7b4bde6b4d6891bad36ca06e60b7c998c6b0bf749",
-  "size": 136047,
-  "notice": "오류 자동 신고 연결 — 매크로가 실패하면 개발자에게 바로 알립니다",
-  "released_at": "2026-07-25 22:30:20",
+  "version": "2.13.0",
+  "url": "bundle/2.13.0.bin",
+  "sha256": "0d8b241d7cd7c7678decd5ea69279ad4cfacc1594db7156e9ee064ac40416e0c",
+  "size": 142888,
+  "notice": "로그인 세션 감시 사각지대 제거 — 방송 전/마지막 2시간 구간도 감시합니다. 실패 알림이 안 뜨던 문제 수정",
+  "released_at": "2026-07-26 03:32:18",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
