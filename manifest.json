@@ -1,10 +1,10 @@
 {
-  "version": "2.13.0",
-  "url": "bundle/2.13.0.bin",
-  "sha256": "0d8b241d7cd7c7678decd5ea69279ad4cfacc1594db7156e9ee064ac40416e0c",
-  "size": 142888,
-  "notice": "로그인 세션 감시 사각지대 제거 — 방송 전/마지막 2시간 구간도 감시합니다. 실패 알림이 안 뜨던 문제 수정",
-  "released_at": "2026-07-26 03:32:18",
+  "version": "2.14.0",
+  "url": "bundle/2.14.0.bin",
+  "sha256": "89b96a57b513f315889b8b34a7b8389f61890cfbb1876e5dd326fff26ad229b4",
+  "size": 145549,
+  "notice": "오류 신고에 멈춘 화면 캡처 첨부 (모니터 구성 무관) / 업데이트 성공 알림 제거",
+  "released_at": "2026-07-26 17:02:12",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
