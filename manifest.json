@@ -1,10 +1,10 @@
 {
-  "version": "2.15.0",
-  "url": "bundle/2.15.0.bin",
-  "sha256": "5feecb3015d8365ba8d66844e58d599765a444bdbc70e456bd71c8085dc42cb7",
-  "size": 148554,
-  "notice": "스토어 선택 중 tool 창이 닫히던 문제 수정 — 스토어명 매칭도 완화(공백·(주) 무시)",
-  "released_at": "2026-07-28 23:21:48",
+  "version": "2.16.0",
+  "url": "bundle/2.16.0.bin",
+  "sha256": "418302920d92166e03cbd77be6da0428ef591bdff49cb5ead2e6c27f0bf19462",
+  "size": 150942,
+  "notice": "방송 시작 버튼이 화면(작업표시줄) 밖에 있으면 PRISM 창을 안으로 옮겨 정상 클릭",
+  "released_at": "2026-07-30 12:14:33",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
