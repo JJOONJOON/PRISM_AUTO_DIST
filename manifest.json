@@ -1,10 +1,10 @@
 {
-  "version": "2.23.0",
-  "url": "bundle/2.23.0.bin",
-  "sha256": "165f98427d88654cda7426e472f84b32369b1fc189e272f1127586c9726ab0cc",
-  "size": 159037,
-  "notice": "스토어 선택만 남은 상태에서 로그인을 처음부터 다시 하다 실패하던 문제 수정",
-  "released_at": "2026-08-04 18:29:24",
+  "version": "2.24.0",
+  "url": "bundle/2.24.0.bin",
+  "sha256": "ae3f41aa17553783c5cf7835433f407757a3cb59641dae1a2de3ccb8c2b2da60",
+  "size": 159653,
+  "notice": "팝업 정리가 라이브 정보 팝업의 확인/취소를 누르지 않도록 수정",
+  "released_at": "2026-08-04 18:49:30",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
