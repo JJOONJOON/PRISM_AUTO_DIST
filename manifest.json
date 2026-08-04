@@ -1,10 +1,10 @@
 {
-  "version": "2.24.0",
-  "url": "bundle/2.24.0.bin",
-  "sha256": "ae3f41aa17553783c5cf7835433f407757a3cb59641dae1a2de3ccb8c2b2da60",
-  "size": 159653,
-  "notice": "팝업 정리가 라이브 정보 팝업의 확인/취소를 누르지 않도록 수정",
-  "released_at": "2026-08-04 18:49:30",
+  "version": "2.25.0",
+  "url": "bundle/2.25.0.bin",
+  "sha256": "a6c0103058631dc80e85091d843fb8e8949c865264b398bd61c060c8095083a1",
+  "size": 160350,
+  "notice": "이미 라이브보드에 있는데 복구 실패로 처리하던 문제 수정",
+  "released_at": "2026-08-04 19:32:02",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
