@@ -1,10 +1,10 @@
 {
-  "version": "2.22.0",
-  "url": "bundle/2.22.0.bin",
-  "sha256": "8d178b1d285c7df0126c4a0e504dfcf439f7e0ffefa81fdd69b9707ab5c834cd",
-  "size": 158366,
-  "notice": "PRISM 채널이 끊겼을 때 원인을 알리고 즉시 중단 (기존 1시간 30분 헛돌던 문제)",
-  "released_at": "2026-08-04 12:06:10",
+  "version": "2.23.0",
+  "url": "bundle/2.23.0.bin",
+  "sha256": "165f98427d88654cda7426e472f84b32369b1fc189e272f1127586c9726ab0cc",
+  "size": 159037,
+  "notice": "스토어 선택만 남은 상태에서 로그인을 처음부터 다시 하다 실패하던 문제 수정",
+  "released_at": "2026-08-04 18:29:24",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
