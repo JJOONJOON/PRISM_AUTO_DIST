@@ -1,10 +1,10 @@
 {
-  "version": "2.26.0",
-  "url": "bundle/2.26.0.bin",
-  "sha256": "95648c7b9bd497dca69b1152639538bff5087eab12f8ea18cd6d4114437c6eb4",
-  "size": 161301,
-  "notice": "관리툴 다른 화면을 보고 있을 때 세션 만료로 오판하던 문제 수정 + 상태 확인 불가 알림",
-  "released_at": "2026-08-05 11:33:59",
+  "version": "2.28.0",
+  "url": "bundle/2.28.0.bin",
+  "sha256": "9a45302f59048d7d0a710fa4678ed3ddae57f4ce83677732d1b8d68b6f458baf",
+  "size": 162676,
+  "notice": "크롬이 느릴 때 방송을 스킵하던 문제 수정 + 라이브 정보 팝업 보호",
+  "released_at": "2026-08-05 16:50:20",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
