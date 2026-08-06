@@ -1,10 +1,10 @@
 {
-  "version": "2.29.0",
-  "url": "bundle/2.29.0.bin",
-  "sha256": "fb1255484590368e4f3377d45e90c0a2866fbbc525177d935a1f4559b016a78e",
-  "size": 163329,
-  "notice": "이미 선택된 예약 방송을 그대로 사용 + 발화 리드타임 3분→5분",
-  "released_at": "2026-08-05 21:51:30",
+  "version": "2.30.0",
+  "url": "bundle/2.30.0.bin",
+  "sha256": "da02c37e837a64dad2891eec2b2070ac7f3798da17a6f118b17231ef0b31662c",
+  "size": 165486,
+  "notice": "켜져 있는 방송을 끄던 치명적 버그 수정 / 리드타임 3분",
+  "released_at": "2026-08-06 16:26:56",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
