@@ -1,10 +1,10 @@
 {
-  "version": "2.30.0",
-  "url": "bundle/2.30.0.bin",
-  "sha256": "da02c37e837a64dad2891eec2b2070ac7f3798da17a6f118b17231ef0b31662c",
-  "size": 165486,
-  "notice": "켜져 있는 방송을 끄던 치명적 버그 수정 / 리드타임 3분",
-  "released_at": "2026-08-06 16:26:56",
+  "version": "2.31.0",
+  "url": "bundle/2.31.0.bin",
+  "sha256": "82da1934d7a5c68dc60367ece71812a626f48e23cf967c3352315e41fda6c025",
+  "size": 167600,
+  "notice": "팝업은 확인만 누름(취소 금지) / 마지막 방송 뒤 2시간 락 해제 + 자동 재크롤링",
+  "released_at": "2026-08-06 16:52:21",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
