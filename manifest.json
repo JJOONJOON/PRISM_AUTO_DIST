@@ -1,10 +1,10 @@
 {
-  "version": "2.33.0",
-  "url": "bundle/2.33.0.bin",
-  "sha256": "cf74fd030a370f1545727132d3185f0a37ad6bc7fd494c5f9875b68614c84332",
-  "size": 168712,
-  "notice": "returnUrl= 하나로 멀쩡한 세션을 만료로 찍던 오판 제거",
-  "released_at": "2026-08-07 11:48:16",
+  "version": "2.33.1",
+  "url": "bundle/2.33.1.bin",
+  "sha256": "4154fe223eab7a15b46b20bac8edeb769610f42f120b91724c1cc6ee63a1ae8d",
+  "size": 170007,
+  "notice": "크롤 뒤 목록 1페이지 복귀 / 로그인돼 있으면 재로그인하지 않음",
+  "released_at": "2026-08-07 12:11:09",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
