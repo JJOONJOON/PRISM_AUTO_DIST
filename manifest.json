@@ -1,10 +1,10 @@
 {
-  "version": "2.33.1",
-  "url": "bundle/2.33.1.bin",
-  "sha256": "4154fe223eab7a15b46b20bac8edeb769610f42f120b91724c1cc6ee63a1ae8d",
-  "size": 170007,
-  "notice": "크롤 뒤 목록 1페이지 복귀 / 로그인돼 있으면 재로그인하지 않음",
-  "released_at": "2026-08-07 12:11:09",
+  "version": "2.34.0",
+  "url": "bundle/2.34.0.bin",
+  "sha256": "c34b1fc91ade252d12f06bd0f3488393f4c3fa7aeb9ddf22c9d535e71e949673",
+  "size": 171719,
+  "notice": "Alt+S 가 페이지를 옮기면 되돌림 / 화면이 새면 라이브보드·목록으로 복귀",
+  "released_at": "2026-08-09 12:05:52",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
