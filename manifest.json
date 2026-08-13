@@ -1,10 +1,10 @@
 {
-  "version": "2.35.0",
-  "url": "bundle/2.35.0.bin",
-  "sha256": "25cf92ca5290f2c2ba94f2f57dff12b0a356bc38ecceb35bdf081bb100edebbc",
-  "size": 172243,
-  "notice": "창 핸들이 도중에 닫혀도 세션 복구가 죽지 않게",
-  "released_at": "2026-08-09 13:11:36",
+  "version": "2.36.0",
+  "url": "bundle/2.36.0.bin",
+  "sha256": "7829d805c535297bedf3b7103c4a93c3b5fa41dba376f1d469a5c540c661e957",
+  "size": 174653,
+  "notice": "페이지가 그린 일시적인 오류 모달을 닫고 화면 복구",
+  "released_at": "2026-08-13 11:48:21",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
