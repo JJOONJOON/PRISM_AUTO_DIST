@@ -1,10 +1,10 @@
 {
-  "version": "2.40.0",
-  "url": "bundle/2.40.0.bin",
-  "sha256": "d9ca6a91aad0cbf428e70849fd21b69f50d07494fa2400baa2dde8745e4693cb",
-  "size": 183527,
-  "notice": "로그인 화면을 만료로 인식 + 원래 보던 라이브보드로 정확히 복귀",
-  "released_at": "2026-08-15 15:26:53",
+  "version": "2.41.0",
+  "url": "bundle/2.41.0.bin",
+  "sha256": "097c3cfe0d2b936e3cd9df0a13360eb86f0cae0be5ebd2b6565eef86c78573bb",
+  "size": 184175,
+  "notice": "주소만 믿지 않고 화면으로도 로그인 여부를 확인한다",
+  "released_at": "2026-08-15 18:42:44",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
