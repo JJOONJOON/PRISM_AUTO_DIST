@@ -1,10 +1,10 @@
 {
-  "version": "2.38.0",
-  "url": "bundle/2.38.0.bin",
-  "sha256": "59c4986ce25b3dd6539f1150a7d8c3e661ca5406b9f1e16b46a6d3818c343c85",
-  "size": 180811,
-  "notice": "창을 제목이 아니라 우리가 띄운 것으로 구분한다",
-  "released_at": "2026-08-15 07:24:03",
+  "version": "2.39.0",
+  "url": "bundle/2.39.0.bin",
+  "sha256": "67026228ccf2cf922f23f7351fb76164d978b33a053df2fd97601f3d033d45e1",
+  "size": 182603,
+  "notice": "거짓 보고 / 헛돌기 / 복구 중 예외로 인한 무한 재시도",
+  "released_at": "2026-08-15 15:09:17",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
