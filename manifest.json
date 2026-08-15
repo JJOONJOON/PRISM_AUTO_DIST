@@ -1,10 +1,10 @@
 {
-  "version": "2.39.0",
-  "url": "bundle/2.39.0.bin",
-  "sha256": "67026228ccf2cf922f23f7351fb76164d978b33a053df2fd97601f3d033d45e1",
-  "size": 182603,
-  "notice": "거짓 보고 / 헛돌기 / 복구 중 예외로 인한 무한 재시도",
-  "released_at": "2026-08-15 15:09:17",
+  "version": "2.40.0",
+  "url": "bundle/2.40.0.bin",
+  "sha256": "d9ca6a91aad0cbf428e70849fd21b69f50d07494fa2400baa2dde8745e4693cb",
+  "size": 183527,
+  "notice": "로그인 화면을 만료로 인식 + 원래 보던 라이브보드로 정확히 복귀",
+  "released_at": "2026-08-15 15:26:53",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
