@@ -1,10 +1,10 @@
 {
-  "version": "2.42.0",
-  "url": "bundle/2.42.0.bin",
-  "sha256": "a45abef392c8b813aaa77e6e6f2f07118244d91cc96267cb7d19ff752b4b658c",
-  "size": 185499,
-  "notice": "덮은 창에 클릭이 떨어지던 문제 - 창을 제대로 앞으로 올리고 확인한다",
-  "released_at": "2026-08-16 10:55:12",
+  "version": "2.43.0",
+  "url": "bundle/2.43.0.bin",
+  "sha256": "0b98a437c1b1efe398d41eeae298dfca70cf73b329b322deb34d7529ad6940fc",
+  "size": 185751,
+  "notice": "3단계 대기를 넉넉히 + 3/4단계 실패 안내",
+  "released_at": "2026-08-22 16:36:46",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
