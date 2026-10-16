@@ -1,10 +1,10 @@
 {
-  "version": "2.44.1",
-  "url": "bundle/2.44.1.bin",
-  "sha256": "19b13e2f608b4ee33292eb3a1855439ad83a109e54e48e8c28609088f86918d9",
-  "size": 222313,
-  "notice": "특가가 적용됐는데 실패로 보고하고 1분마다 재시도하던 문제 수정",
-  "released_at": "2026-10-13 13:35:26",
+  "version": "2.44.2",
+  "url": "bundle/2.44.2.bin",
+  "sha256": "6d782f09eec3f57333eaf73a5dd6df40c78affb00f608f763dba691d75a4c688",
+  "size": 222583,
+  "notice": "로그인 좌표 기록 버튼 표시 수정 · 특가 확인창 문구 수정",
+  "released_at": "2026-10-16 15:07:37",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
