@@ -1,10 +1,10 @@
 {
-  "version": "2.45.2",
-  "url": "bundle/2.45.2.bin",
-  "sha256": "6d88b7f8ad22ec38c497f5fbd79f3f7714f97ac24ebf8a840fbd345fc8ef55c5",
-  "size": 226330,
-  "notice": "반복 공지글: 넣은 뒤 기본 문구로 되돌아가면 다시 넣도록 (토글 뒤에도 재확인)",
-  "released_at": "2026-10-19 15:37:38",
+  "version": "2.45.3",
+  "url": "bundle/2.45.3.bin",
+  "sha256": "c909eed4b224440f975c9e2240c69f8587a07225a347a5ec518b774469d62e0c",
+  "size": 226540,
+  "notice": "반복 공지글: 저장값과 같으면 그대로, 다를 때만 기본 문구를 지우고 넣도록",
+  "released_at": "2026-10-19 15:55:17",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
