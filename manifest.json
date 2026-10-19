@@ -1,10 +1,10 @@
 {
-  "version": "2.45.1",
-  "url": "bundle/2.45.1.bin",
-  "sha256": "2543114a5b1cc14d69b4c804d1d4d1c3a546ce255fb3a7b8411e16e86c6a1952",
-  "size": 225438,
-  "notice": "반복 공지글: 실행 중에 저장해도 다음 방송부터 바로 들어가도록 수정",
-  "released_at": "2026-10-19 15:23:05",
+  "version": "2.45.2",
+  "url": "bundle/2.45.2.bin",
+  "sha256": "6d88b7f8ad22ec38c497f5fbd79f3f7714f97ac24ebf8a840fbd345fc8ef55c5",
+  "size": 226330,
+  "notice": "반복 공지글: 넣은 뒤 기본 문구로 되돌아가면 다시 넣도록 (토글 뒤에도 재확인)",
+  "released_at": "2026-10-19 15:37:38",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
