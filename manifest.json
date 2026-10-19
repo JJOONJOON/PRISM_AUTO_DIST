@@ -1,10 +1,10 @@
 {
-  "version": "2.45.0",
-  "url": "bundle/2.45.0.bin",
-  "sha256": "1bb26c7bc38584cc9ffb4a799717b1e3b976b720e342170b770f73f8989c1dfa",
-  "size": 225235,
-  "notice": "반복 공지글 — PRISM AUTO 에 적은 문구가 속속톡 사이드바에 들어갑니다 (세션 복구 후에도)",
-  "released_at": "2026-10-18 12:53:29",
+  "version": "2.45.1",
+  "url": "bundle/2.45.1.bin",
+  "sha256": "2543114a5b1cc14d69b4c804d1d4d1c3a546ce255fb3a7b8411e16e86c6a1952",
+  "size": 225438,
+  "notice": "반복 공지글: 실행 중에 저장해도 다음 방송부터 바로 들어가도록 수정",
+  "released_at": "2026-10-19 15:23:05",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
