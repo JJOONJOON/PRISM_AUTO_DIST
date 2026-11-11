@@ -1,10 +1,10 @@
 {
-  "version": "2.45.6",
-  "url": "bundle/2.45.6.bin",
-  "sha256": "d022926dd807eb8b9b893435e801deddb64c9ded07d0748fe0127466e06127ed",
-  "size": 232311,
-  "notice": "디버그 크롬을 AI LORA 가 깔린 프로필로 실행 + 반복 입력 시간 설정",
-  "released_at": "2026-11-10 18:49:14",
+  "version": "2.45.7",
+  "url": "bundle/2.45.7.bin",
+  "sha256": "6acc9a6ea88b6a7d3168deb2b2ff32ad885e0cc8116edf28c0725a82943d9138",
+  "size": 233819,
+  "notice": "PRISM 방송을 7분 전에 미리 골라 두고 예약 1분 전에 시작 + 목록 끝까지 확인",
+  "released_at": "2026-11-11 11:51:14",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
