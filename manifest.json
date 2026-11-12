@@ -1,10 +1,10 @@
 {
-  "version": "2.45.13",
-  "url": "bundle/2.45.13.bin",
-  "sha256": "06a7490bf572e303fb0540ffa185d98f0995e33eca1822baacafa08de6db78b2",
-  "size": 248308,
-  "notice": "로그인 좌표가 빗나가면 버튼을 이름으로 찾아 누름(④는 1회만), 좌표 검증 시 최대화 유지",
-  "released_at": "2026-11-12 18:47:53",
+  "version": "2.45.14",
+  "url": "bundle/2.45.14.bin",
+  "sha256": "7fae7723e2084988672f915c478769c976f9ef9868b8e812532dff17a66ec7e4",
+  "size": 249426,
+  "notice": "PRISM 팝업을 처리 전에 캡처(PC마다 첫 정상 송출까지만), 송출 성공 보고",
+  "released_at": "2026-11-12 19:04:46",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
