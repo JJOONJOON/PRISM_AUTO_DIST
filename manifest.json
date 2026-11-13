@@ -1,10 +1,10 @@
 {
-  "version": "2.45.14",
-  "url": "bundle/2.45.14.bin",
-  "sha256": "7fae7723e2084988672f915c478769c976f9ef9868b8e812532dff17a66ec7e4",
-  "size": 249426,
-  "notice": "PRISM 팝업을 처리 전에 캡처(PC마다 첫 정상 송출까지만), 송출 성공 보고",
-  "released_at": "2026-11-12 19:04:46",
+  "version": "2.45.15",
+  "url": "bundle/2.45.15.bin",
+  "sha256": "1d53dba5d82aaf5cb04426ecd5e87299420b5fd6d57ec650603e1bd31836f0be",
+  "size": 249563,
+  "notice": "송출 성공 보고 누락 수정(이미 송출 중 확인 경로), 첫 정상 송출까지 팝업 캡처",
+  "released_at": "2026-11-13 10:12:47",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
