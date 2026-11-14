@@ -1,10 +1,10 @@
 {
-  "version": "2.45.15",
-  "url": "bundle/2.45.15.bin",
-  "sha256": "1d53dba5d82aaf5cb04426ecd5e87299420b5fd6d57ec650603e1bd31836f0be",
-  "size": 249563,
-  "notice": "송출 성공 보고 누락 수정(이미 송출 중 확인 경로), 첫 정상 송출까지 팝업 캡처",
-  "released_at": "2026-11-13 10:12:47",
+  "version": "2.45.16",
+  "url": "bundle/2.45.16.bin",
+  "sha256": "38013cd1f4fc0d6a42ebe7c26a924dce44c200a37df9a62ca0d96bcefe4bfbe6",
+  "size": 249748,
+  "notice": "토글 알림 시 [확인] 후 다시 누르기(최대 5번)",
+  "released_at": "2026-11-14 14:28:12",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
