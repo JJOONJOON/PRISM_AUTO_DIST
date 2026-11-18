@@ -1,10 +1,10 @@
 {
-  "version": "2.45.16",
-  "url": "bundle/2.45.16.bin",
-  "sha256": "38013cd1f4fc0d6a42ebe7c26a924dce44c200a37df9a62ca0d96bcefe4bfbe6",
-  "size": 249748,
-  "notice": "토글 알림 시 [확인] 후 다시 누르기(최대 5번)",
-  "released_at": "2026-11-14 14:28:12",
+  "version": "2.45.17",
+  "url": "bundle/2.45.17.bin",
+  "sha256": "01c25c597419dba00f8347007f0d50ddc52140a96f53c4792e748d370ce59713",
+  "size": 250967,
+  "notice": "속속톡 플레이어가 이미 떠 있으면 또 켜지 않습니다 — 플레이어 창 1개만 유지",
+  "released_at": "2026-11-18 19:02:53",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
