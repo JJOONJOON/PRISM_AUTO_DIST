@@ -1,10 +1,10 @@
 {
-  "version": "2.45.17",
-  "url": "bundle/2.45.17.bin",
-  "sha256": "01c25c597419dba00f8347007f0d50ddc52140a96f53c4792e748d370ce59713",
-  "size": 250967,
-  "notice": "속속톡 플레이어가 이미 떠 있으면 또 켜지 않습니다 — 플레이어 창 1개만 유지",
-  "released_at": "2026-11-18 19:02:53",
+  "version": "2.46.0",
+  "url": "bundle/2.46.0.bin",
+  "sha256": "3eaa0fca4d794669811799bcf86f4df8d9bef570ed1229ea28d2ddf691647404",
+  "size": 255675,
+  "notice": "속속톡 플레이어 항상 1개 유지 + [정상작동배치확인] 버튼(송출 성공 때 창 배치 자동 저장)",
+  "released_at": "2026-11-18 20:11:39",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
