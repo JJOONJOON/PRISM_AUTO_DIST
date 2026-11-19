@@ -1,10 +1,10 @@
 {
-  "version": "2.47.0",
-  "url": "bundle/2.47.0.bin",
-  "sha256": "bd8b15029ca67014d643e79c14fa2c4b90377d0a3e083e8297ea23feea757264",
-  "size": 267647,
-  "notice": "재시도 정책(예약 3분 전·2연속 실패 중단→수동 시작) + PC별 사고기록 + 원격 명령 + 예약 없음은 사람 조치",
-  "released_at": "2026-11-19 10:02:22",
+  "version": "2.48.0",
+  "url": "bundle/2.48.0.bin",
+  "sha256": "cdb7a0836955b0016d745e655e4f12d17eae20e07adde6212cf2543125e32d13",
+  "size": 270229,
+  "notice": "수동 시작 예약+10분까지 반복 · 지난 방송 오판 방지 · 정상송출+좌표 로그인 성공 기록 PC는 [시작]만으로 로그인부터",
+  "released_at": "2026-11-19 11:07:47",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
