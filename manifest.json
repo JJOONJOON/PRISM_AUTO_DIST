@@ -1,10 +1,10 @@
 {
-  "version": "2.48.1",
-  "url": "bundle/2.48.1.bin",
-  "sha256": "8102acd7f8daa93451f0c210381a3247e0d85666d189f5a19725708e07615a71",
-  "size": 270388,
-  "notice": "지연 방송은 실제 시작 예정 기준으로 재시도·수동 시작·방송시작 마감 (+10분) · 수동 반복 상한",
-  "released_at": "2026-11-19 12:28:49",
+  "version": "2.48.2",
+  "url": "bundle/2.48.2.bin",
+  "sha256": "e3deee3b080964d486d564b453ae40914d1363ce63c4e00d3bcfb9f74e3b43bc",
+  "size": 272692,
+  "notice": "PRISM 목록에 목표 방송이 없으면 관리툴 1~5페이지 확인: 대기면 PRISM 재탐색(예약+30분·다음 방송 전까지), 삭제·종료면 다음 방송 준비, LIVE면 누르지 않음",
+  "released_at": "2026-11-19 20:12:50",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
