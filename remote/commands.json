@@ -1,39 +1,11 @@
 {
  "commands": [
   {
-   "id": "c1118-231042-1",
-   "pc": "DESKTOP-R459TLE",
-   "cmd": "ping",
-   "args": "",
-   "expires": "2026-11-18 23:25:42"
-  },
-  {
-   "id": "c1118-231045-2",
+   "id": "c1119-091217-1",
    "pc": "DESKTOP-R459TLE",
    "cmd": "status",
    "args": "",
-   "expires": "2026-11-18 23:25:45"
-  },
-  {
-   "id": "c1118-231048-3",
-   "pc": "DESKTOP-R459TLE",
-   "cmd": "shot",
-   "args": "",
-   "expires": "2026-11-18 23:25:48"
-  },
-  {
-   "id": "c1118-231050-4",
-   "pc": "OTHER-PC-XYZ",
-   "cmd": "ping",
-   "args": "",
-   "expires": "2026-11-18 23:25:50"
-  },
-  {
-   "id": "c1118-231119-5",
-   "pc": "DESKTOP-R459TLE",
-   "cmd": "windows",
-   "args": "",
-   "expires": "2026-11-18 23:26:19"
+   "expires": "2026-11-19 09:27:17"
   }
  ]
 }
