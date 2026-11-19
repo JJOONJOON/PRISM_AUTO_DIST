@@ -1,10 +1,10 @@
 {
-  "version": "2.46.0",
-  "url": "bundle/2.46.0.bin",
-  "sha256": "3eaa0fca4d794669811799bcf86f4df8d9bef570ed1229ea28d2ddf691647404",
-  "size": 255675,
-  "notice": "속속톡 플레이어 항상 1개 유지 + [정상작동배치확인] 버튼(송출 성공 때 창 배치 자동 저장)",
-  "released_at": "2026-11-18 20:11:39",
+  "version": "2.47.0",
+  "url": "bundle/2.47.0.bin",
+  "sha256": "bd8b15029ca67014d643e79c14fa2c4b90377d0a3e083e8297ea23feea757264",
+  "size": 267647,
+  "notice": "재시도 정책(예약 3분 전·2연속 실패 중단→수동 시작) + PC별 사고기록 + 원격 명령 + 예약 없음은 사람 조치",
+  "released_at": "2026-11-19 10:02:22",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
