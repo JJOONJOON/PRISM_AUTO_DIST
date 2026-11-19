@@ -6,6 +6,13 @@
    "cmd": "status",
    "args": "",
    "expires": "2026-11-19 09:27:17"
+  },
+  {
+   "id": "c1119-091223-2",
+   "pc": "DESKTOP-R459TLE",
+   "cmd": "windows",
+   "args": "",
+   "expires": "2026-11-19 09:27:23"
   }
  ]
 }
