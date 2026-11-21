@@ -1,10 +1,10 @@
 {
-  "version": "2.48.4",
-  "url": "bundle/2.48.4.bin",
-  "sha256": "43c3cb3caaa986dc09cf1f9606ef633a1dbc580faba46d1fd872e8e18d8b36b9",
-  "size": 274492,
-  "notice": "대기 모드 창 쌓임·자동 반복 로그인 방지, 스케줄 오류 시 다음 방송 계속, 원격 기록 손상 방지",
-  "released_at": "2026-11-20 12:30:46",
+  "version": "2.48.5",
+  "url": "bundle/2.48.5.bin",
+  "sha256": "3096ea44f0343076a8153892ec0395632a0bd706f56c404d2b2778b38244db1a",
+  "size": 276973,
+  "notice": "PRISM 드롭다운 상위 5개·하위 5개 확인(지난 방송은 맨 밑), 목록 밖 클릭 방지",
+  "released_at": "2026-11-21 10:36:57",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0",
   "telemetry_url": "enc:UEFCTkQB8lW0vcZvXmf+RRXKlWjKbh4qcGF6vB/r0EF5uviF0RmjIi6wO9e3V/5XPSmKSqokfPHenvECJ/aRcvUEtqvoKkLcXWCsChIWJlom2KyoY+r7ykc7WHxnRW1ZprmvKeMD6pg2FexuS51/Pt3S8RTSr9K+92GJXY2OEPqBr1hwofSSNvyfQAQ9FN91OMneRc2qI5FfmhEWR7qrwCbW8wTPq+Rcpt5cqSjjWw=="
